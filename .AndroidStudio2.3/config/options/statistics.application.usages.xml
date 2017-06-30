@@ -1,0 +1,106 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="Git">
+      <project id="JustJava" values="config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled" collectionTime="1492025723190" />
+      <project id="F1Quiz" values="config.ssh.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.save.policy.STASH" collectionTime="1492100676202" />
+      <project id="JavaApp" values="config.force.push.enabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled" collectionTime="1484747834895" />
+      <project id="CourtCounter" values="config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1492025721481" />
+      <project id="ScoreCounter" values="config.force.push.enabled,config.warn.about.detached.enabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1492025718036" />
+      <project id="Cookies" values="config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.force.push.enabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.save.policy.STASH,config.ssh.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1492025730213" />
+      <project id="HappyBirthday" values="config.warn.about.crlf.enabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.cherry-pick.autocommit.disabled" collectionTime="1492025715079" />
+      <project id="MyApplication" values="config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.ssh.enabled" collectionTime="1492025727360" />
+      <project id="Menu" values="config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled" collectionTime="1492101321467" />
+      <project id="Valentine" values="config.warn.about.crlf.enabled,config.save.policy.STASH,config.ssh.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled" collectionTime="1487160420782" />
+      <project id="PracticeSet2" values="config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT" collectionTime="1491753596592" />
+      <project id="ValentineCard" values="config.ssh.enabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED" collectionTime="1484747834856" />
+      <project id="BookHavenInfo" values="config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.push.autoupdate.disabled" collectionTime="1492100682898" />
+    </group>
+    <group name="language-level">
+      <project id="JustJava" values="JDK_1_7,JDK_1_8" collectionTime="1492025723190" />
+      <project id="F1Quiz" values="JDK_1_7,JDK_1_8" collectionTime="1492100676134" />
+      <project id="JavaApp" values="JDK_1_7" collectionTime="1484747834895" />
+      <project id="CourtCounter" values="JDK_1_8,JDK_1_7" collectionTime="1492025721481" />
+      <project id="ScoreCounter" values="JDK_1_7,JDK_1_8" collectionTime="1492025718036" />
+      <project id="Cookies" values="JDK_1_8,JDK_1_7" collectionTime="1492025730213" />
+      <project id="HappyBirthday" values="JDK_1_7,JDK_1_8" collectionTime="1492025715079" />
+      <project id="MyApplication" values="JDK_1_7,JDK_1_8" collectionTime="1492025727360" />
+      <project id="Menu" values="JDK_1_7,JDK_1_8" collectionTime="1492101321466" />
+      <project id="Valentine" values="JDK_1_7" collectionTime="1487160420781" />
+      <project id="PracticeSet2" values="JDK_1_8,JDK_1_7" collectionTime="1491753596592" />
+      <project id="ValentineCard" values="JDK_1_8,JDK_1_7" collectionTime="1484747834856" />
+      <project id="BookHavenInfo" values="JDK_1_7" collectionTime="1492100682898" />
+    </group>
+    <group name="file-type">
+      <project id="JustJava" values="Images,UNKNOWN,AIDL,ProGuard File,XML,JAVA,ARCHIVE,PLAIN_TEXT,Properties,Groovy,IDEA_MODULE" collectionTime="1492025723189" />
+      <project id="F1Quiz" values="JAVA,Images,Groovy,Properties,UNKNOWN,ARCHIVE,AIDL,ProGuard File,PLAIN_TEXT,XML,IDEA_MODULE" collectionTime="1492100675899" />
+      <project id="JavaApp" values="XML,Images,Properties,AIDL,UNKNOWN,ARCHIVE,Groovy,ProGuard File,JAVA,PLAIN_TEXT,IDEA_MODULE" collectionTime="1484747834894" />
+      <project id="CourtCounter" values="XML,Groovy,JAVA,ARCHIVE,AIDL,PLAIN_TEXT,UNKNOWN,IDEA_MODULE,Properties,ProGuard File,Images" collectionTime="1492025721481" />
+      <project id="ScoreCounter" values="Groovy,ProGuard File,UNKNOWN,PLAIN_TEXT,XML,ARCHIVE,IDEA_MODULE,JAVA,AIDL,Images,Properties" collectionTime="1492025718036" />
+      <project id="Cookies" values="ProGuard File,XML,Images,AIDL,IDEA_MODULE,UNKNOWN,Groovy,Properties,PLAIN_TEXT,ARCHIVE,JAVA" collectionTime="1492025730212" />
+      <project id="HappyBirthday" values="Properties,UNKNOWN,XML,ProGuard File,AIDL,PLAIN_TEXT,Groovy,Images,ARCHIVE,IDEA_MODULE,JAVA" collectionTime="1492025715079" />
+      <project id="MyApplication" values="PLAIN_TEXT,JAVA,IDEA_MODULE,Properties,Groovy,ProGuard File,ARCHIVE,XML,AIDL,Images,UNKNOWN" collectionTime="1492025727359" />
+      <project id="Menu" values="UNKNOWN,XML,Groovy,AIDL,JAVA,Properties,IDEA_MODULE,ARCHIVE,ProGuard File,Images,PLAIN_TEXT" collectionTime="1492101321461" />
+      <project id="Valentine" values="Properties,ARCHIVE,PLAIN_TEXT,Groovy,XML,UNKNOWN,IDEA_MODULE,Images,JAVA,AIDL,ProGuard File" collectionTime="1487160420780" />
+      <project id="PracticeSet2" values="JAVA,PLAIN_TEXT,UNKNOWN,IDEA_MODULE,Properties,ProGuard File,XML,Groovy,AIDL,ARCHIVE,Images" collectionTime="1491753596591" />
+      <project id="ValentineCard" values="IDEA_MODULE,AIDL,UNKNOWN,XML,JAVA,Images,Groovy,ProGuard File,ARCHIVE,Properties,PLAIN_TEXT" collectionTime="1484747834856" />
+      <project id="BookHavenInfo" values="IDEA_MODULE,PLAIN_TEXT,ARCHIVE,UNKNOWN,Properties,Groovy,JAVA,AIDL,Images,ProGuard File,XML" collectionTime="1492100682896" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="JustJava" values="AndroidRunConfigurationType" collectionTime="1492025723157" />
+      <project id="F1Quiz" values="AndroidRunConfigurationType" collectionTime="1492100675658" />
+      <project id="JavaApp" values="AndroidRunConfigurationType" collectionTime="1484747834857" />
+      <project id="CourtCounter" values="AndroidRunConfigurationType" collectionTime="1492025721437" />
+      <project id="ScoreCounter" values="AndroidRunConfigurationType" collectionTime="1492025717965" />
+      <project id="Cookies" values="AndroidRunConfigurationType" collectionTime="1492025730157" />
+      <project id="HappyBirthday" values="AndroidRunConfigurationType" collectionTime="1492025715060" />
+      <project id="MyApplication" values="AndroidRunConfigurationType" collectionTime="1492025727143" />
+      <project id="Menu" values="AndroidRunConfigurationType" collectionTime="1492101321311" />
+      <project id="Valentine" values="AndroidRunConfigurationType" collectionTime="1487160420733" />
+      <project id="PracticeSet2" values="AndroidRunConfigurationType" collectionTime="1491753596536" />
+      <project id="ValentineCard" values="AndroidRunConfigurationType" collectionTime="1484747834804" />
+      <project id="BookHavenInfo" values="AndroidRunConfigurationType" collectionTime="1492100682847" />
+    </group>
+    <group name="frameworks">
+      <project id="JustJava" values="android-gradle,android,java-gradle" collectionTime="1492025723157" />
+      <project id="F1Quiz" values="android-gradle,java-gradle,android" collectionTime="1492100675650" />
+      <project id="JavaApp" values="android-gradle,android,java-gradle" collectionTime="1484747834856" />
+      <project id="CourtCounter" values="java-gradle,android,android-gradle" collectionTime="1492025721437" />
+      <project id="ScoreCounter" values="android-gradle,java-gradle,android" collectionTime="1492025717965" />
+      <project id="Cookies" values="android-gradle,java-gradle,android" collectionTime="1492025730157" />
+      <project id="HappyBirthday" values="android,android-gradle,java-gradle" collectionTime="1492025715060" />
+      <project id="MyApplication" values="java-gradle,android-gradle,android" collectionTime="1492025727143" />
+      <project id="Menu" values="android,java-gradle,android-gradle" collectionTime="1492101321310" />
+      <project id="Valentine" values="java-gradle,android,android-gradle" collectionTime="1487160420733" />
+      <project id="PracticeSet2" values="android-gradle,android,java-gradle" collectionTime="1491753596536" />
+      <project id="ValentineCard" values="android-gradle,android,java-gradle" collectionTime="1484747834803" />
+      <project id="BookHavenInfo" values="java-gradle,android,android-gradle" collectionTime="1492100682847" />
+    </group>
+    <group name="module type">
+      <project id="JustJava" values="JAVA_MODULE" collectionTime="1492025723157" />
+      <project id="F1Quiz" values="JAVA_MODULE" collectionTime="1492100675651" />
+      <project id="JavaApp" values="JAVA_MODULE" collectionTime="1484747834856" />
+      <project id="CourtCounter" values="JAVA_MODULE" collectionTime="1492025721437" />
+      <project id="ScoreCounter" values="JAVA_MODULE" collectionTime="1492025717965" />
+      <project id="Cookies" values="JAVA_MODULE" collectionTime="1492025730157" />
+      <project id="HappyBirthday" values="JAVA_MODULE" collectionTime="1492025715060" />
+      <project id="MyApplication" values="JAVA_MODULE" collectionTime="1492025727143" />
+      <project id="Menu" values="JAVA_MODULE" collectionTime="1492101321310" />
+      <project id="Valentine" values="JAVA_MODULE" collectionTime="1487160420733" />
+      <project id="PracticeSet2" values="JAVA_MODULE" collectionTime="1491753596536" />
+      <project id="ValentineCard" values="JAVA_MODULE" collectionTime="1484747834803" />
+      <project id="BookHavenInfo" values="JAVA_MODULE" collectionTime="1492100682847" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="execute.AndroidRunConfigurationType.Debug" count="12" />
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="745" />
+      <entry feature="execute.GradleRunConfiguration.Run" count="6" />
+      <entry feature="ide.settings.Auto_Import" count="1" />
+      <entry feature="ideaapp.started" count="19" />
+      <entry feature="terminal.win" count="6" />
+      <entry feature="tips.of.the.day.next" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="1" />
+    </counts>
+  </component>
+</application>

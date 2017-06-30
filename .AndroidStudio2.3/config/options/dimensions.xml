@@ -1,0 +1,50 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="959" y="423" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="693" y="361" />
+    <location key="deploy.picker.dialog.0.0.1920.1080" x="510" y="342" />
+    <location key="ProcessPopupWindow.0.0.1920.1080" x="1428" y="801" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="538" y="145" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="675" y="185" />
+    <location key="SettingsEditor.0.0.1920.1080" x="507" y="177" />
+    <location key="#Inspections.0.0.1920.1080" x="639" y="309" />
+    <location key="deploy.picker.dialog.0.0.0.0" x="1280" y="538" />
+    <location key="AndroidThemeDialog.0.0.1920.1080" x="489" y="438" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1920.1080" x="688" y="269" />
+    <location key="#Notifications.0.0.1920.1080" x="358" y="123" />
+    <location key="AndroidCreateXmlResourceDialog.0.0.1920.1080" x="0" y="614" />
+    <location key="#app.0.0.1920.1080" x="856" y="202" />
+    <location key="IdeErrosDialog.0.0.1920.1080" x="588" y="329" />
+    <location key="#Project_Structure.0.0.1920.1080" x="540" y="165" />
+    <location key="AndroidCreateResourceFileDialog.0.0.1920.1080" x="677" y="283" />
+    <location key="AndroidCreateResourceDirectoryDialog.0.0.1920.1080" x="566" y="284" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1920.1080" x="690" y="261" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.0.0" x="693" y="361" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080" x="962" y="444" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.0.0" x="515" y="342" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080" x="711" y="407" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.1920.1080" x="708" y="366" />
+    <location key="#Browse_Repositories.0.0.1920.1080" x="606" y="166" />
+    <location key="Github.ShareDialog.0.0.1920.1080" x="752" y="390" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="0" height="0" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="0" height="0" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="0" height="0" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="0" height="0" />
+    <size key="ProcessPopupWindow.0.0.1920.1080" width="201" height="113" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1876" height="298" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1876" height="298" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1876" height="298" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1876" height="298" />
+    <size key="javadoc.popup.0.0.1920.1080" width="446" height="165" />
+    <size key="GridCell.Tab.0.left.0.0.0.0" width="1483" height="120" />
+    <size key="GridCell.Tab.0.center.0.0.0.0" width="1483" height="120" />
+    <size key="GridCell.Tab.0.right.0.0.0.0" width="1483" height="120" />
+    <size key="GridCell.Tab.0.bottom.0.0.0.0" width="1483" height="120" />
+    <size key="SettingsEditor.0.0.1920.1080" width="1038" height="679" />
+    <size key="GridCell.Tab.1.left.0.0.0.0" width="1483" height="120" />
+    <size key="GridCell.Tab.1.center.0.0.0.0" width="1483" height="120" />
+    <size key="GridCell.Tab.1.right.0.0.0.0" width="1483" height="120" />
+    <size key="GridCell.Tab.1.bottom.0.0.0.0" width="1483" height="120" />
+    <size key="javadoc.popup.0.0.0.0" width="446" height="165" />
+  </component>
+</application>
