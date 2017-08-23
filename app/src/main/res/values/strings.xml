@@ -1,0 +1,337 @@
+<resources>
+    <string name="app_name">Killarney Tour Guide</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="SightsFragment">Sights</string>
+    <string name="DiningFragment">Dining</string>
+    <string name="EventsFragment">Events</string>
+    <string name="HotelsFragment">Hotels</string>
+    <string name="NightlifeFragment">Nightlife</string>
+    <string name="TorcWaterfall">Torc waterfall</string>
+    <string name="TorcWaterfallDescription">The falls are one of the landmarks on the 200 kilometre Kerry Way walking tour, and are encompassed in the Killarney National Park.</string>
+    <string name="TorcMountain">Torc Mountain</string>
+    <string name="TorcMountainDescription">Torc Mountain is a mountain near Killarney in County Kerry, Ireland which is 535 m high.</string>
+    <string name="MuckrossHouse">Muckross House and Gardens</string>
+    <string name="MuckrossDescription">Furnished 19th-century mansion set among mountains and woodland, with shop, cafe and working farms.</string>
+    <string name="RossCastle">Ross Castle</string>
+    <string name="RossCastleDescription">Ross Castle is a 15th-century tower house and keep on the edge of Lough Leane, in Killarney National Park, County Kerry, Ireland.</string>
+    <string name="LakesOfKillarney">Lakes of Killarney</string>
+    <string name="LakeDescription">Scenic attraction located in Killarney National Park. They consist of three lakes - Lough Leane, Muckross Lake and Upper Lake.</string>
+    <string name="GapOfDunloe">Gap of Dunloe</string>
+    <string name="GapOfDunloeDescription">The Gap of Dunloe is a narrow mountain pass of Ireland. </string>
+    <string name="RingOfKerry">Ring of Kerry</string>
+    <string name="RingOfKerryDescription">This scenic drive is 179km-long, circular route takes in rugged and verdant coastal landscapes and rural seaside villages.</string>
+    <string name="InnisfallenIsland">Innisfallen Island</string>
+    <string name="InnisfallenDescription">Innisfallen or Inishfallen is an island in Lough Leane; one of the three Lakes of Killarney in County Kerry, Ireland. </string>
+    <string name="MuckrossAbbey">Muckross Abbey</string>
+    <string name="MuckrossAbbeyDescription">Muckross Abbey was founded in 1448, and is one of the major ecclesiastical sites found in the Killarney National Park.</string>
+    <string name="Falconry">Killarney Falconry</string>
+    <string name="FalconryDescription">Killarney Falconry offers guided walks with hawks and regular flying demonstrations.</string>
+    <string name="CelticSteps">Celtic Steps The Show</string>
+    <string name="CelticStepsDescription">Traditional Irish Music, Song and Dance Show featuring Ireland\'s greatest exponents of the traditional arts at Killarney Racecourse, Ross Rd.</string>
+    <string name="Inec">INEC Killarney</string>
+    <string name="InecDescription">Big-name touring bands and stand-up comics in modern, 3,000-capacity theatre with 2 balconies.</string>
+    <string name="Cineplex">Cineplex Killarney</string>
+    <string name="CineplexDescription">Killarney Cineplex is a five screen cinema located on East Avenue Rd in Killarney town centre.</string>
+    <string name="FitzgeraldStadium">Fitzgerald Stadium</string>
+    <string name="FitzgeraldStadiumDescription">The Fitzgerald Stadium is the principal GAA stadium in Killarney, Ireland, and is the home championship venue for the Kerry senior football team.</string>
+    <string name="BikeFest">Ireland BikeFest Killarney</string>
+    <string name="BikeFestDescription">Now in its 11th year, Ireland BikeFest Killarney has attracted a lot of positive attention from locals, national and international visitors alike.</string>
+    <string name="ROKCharityCycle">The Ring of Kerry Charity Cycle</string>
+    <string name="ROKCharityCycleDesc">The event, now in it’s 34th year, is the biggest one day charity fundraising event in Munster, attracting thousands of leisure cyclists.</string>
+    <string name="FolkFest">FolkFest Killarney</string>
+    <string name="FolkFestDescription">A festival for music lovers, Folkfest Killarney promises to satisfy every taste!</string>
+    <string name="JulyRaces">July Racing Festival</string>
+    <string name="JulyRacesDescription">For four days Killarney Racecourse will combine the very best of horse racing with a fantastic festival atmosphere for all Racegoers.</string>
+    <string name="AugustRaces">August Racing Festival</string>
+    <string name="AugustRacesDescription">The first three days of racing are all evening meetings, Killarney Racecourses Ladies Days have a long association with style and elegance.</string>
+    <string name="CyclingFestival">Killarney Cycling Festival</string>
+    <string name="CyclingFestivalDescription">There are two tantalising routes on offer. Depart from Killarney and tackle Molls Gap before heading for the scenic South West.</string>
+    <string name="TorcWaterfallAbout">Torc Waterfall (Irish: Easach Toirc) is a waterfall at the base of Torc Mountain, about 5 miles (8.0 km) from Killarney in County Kerry,
+        Ireland.\n\nThe falls are one of the landmarks on the 200 kilometre Kerry Way walking tour, and are encompassed in the Killarney National Park. Red deer are frequently seen and heard in the area.\n\nEasy
+        access and parking make the site popular with walkers and tour bus groups, who often visit as part of the Ring of Kerry tour.\n\nA
+        public hiking trail stretches from the waterfall to the top of Torc Mountain.</string>
+    <string name="TorcMountainAbout">Torc Mountain is an extremely popular and scenic moderate 2-2.5 hour (7.5 km) walking route to the summit of Torc Mountain (535m) with spectacular 360 degree views
+        of Killarney town and lakes, Muckross House, the Killarney National Park and the McGillicuddy\'s Reeks, County Kerry in the south west of Ireland.\n\nThis
+        walk starts from the upper Torc Mountain car park which is also the starting point for the Old Kenmare Road Walk, a stage of The Kerry Way,
+        Mangerton Mountain and other smaller loop walks in the area. From Killarney, continue approx 5miles / 8km before turning left on the road signed for the \'Old Kenmare Road\'
+        just before you get to the Torc Waterfall car park itself (see the map).\n\nThe famous Torc Waterfall is at the base of Torc Mountain off the main Ring of Kerry Road about 5 miles (8.0 km) from Killarney.</string>
+    <string name="MuckrossHouseAbout">Muckross House is a mansion designed by the British architect, William Burn, built in 1843 for Henry Arthur Herbert and his wife, the watercolourist Mary Balfour
+        Herbert.\n\nWith sixty-five rooms, it was built in the Tudor style. Extensive improvements were undertaken in the 1850s in preparation for the visit of Queen Victoria in 1861.
+        It is said that these improvements for the Queen\'s visit were a contributory factor in the financial difficulties suffered by the Herbert family which resulted in the sale of the estate.\n\nIn
+        1899 it was bought by Arthur Guinness, 1st Baron Ardilaun who wanted to preserve the dramatic landscape. He did not live in the house himself, but rented it out to wealthy groups as a hunting
+        lodge.\n\nIn August 1911, not long before the First World War, Muckross House and its demesne were again sold to William Bowers Bourn, a wealthy Californian mining magnate.
+        He and his wife passed it to their daughter Maud and her husband Arthur Rose Vincent as a wedding present. The couple lived there until Maud\'s death from pneumonia in 1929.\n\nIn
+        1932 her parents Mr and Mrs Bournes and their son-in-law Arthur Vincent decided to present Muckross House and its 11,000 acre estate to the Irish nation. Being called the \″Bourne-Vincent Memorial Park\″,
+        it thus became the first National Park in the Republic of Ireland and formed the basis of present-day Killarney National Park.
+        In later years the park was substantially expanded by the acquisition of land from the former Earl of Kenmare\'s estate.</string>
+    <string name="RossCastleAbout">Ross Castle was built in the late 15th century by local ruling clan the O\'Donoghues Mor (Ross), though ownership changed hands during the Second
+        Desmond Rebellion of the 1580s to the MacCarthy Mór. He then leased the castle and the lands to Sir Valentine Browne, ancestor of the Earls of Kenmare.\n\nThe castle was amongst
+        the last to surrender to Oliver Cromwell\'s Roundheads during the Irish Confederate Wars, and was only taken when artillery was brought by boat via the River Laune.\n\nLord Muskerry (MacCarty)
+        held the castle against General Ludlow who marched to Ross with 4,000 foot soldiers and 200 horse; however, it was by water that he attacked the stronghold.\n\nThe Irish had a prophecy
+        that Ross could never be taken until a warship could swim on the lake, an unbelievable prospect.\n\nThe ships were built in Kinsale, brought by water to Killorglin and
+        then dragged by oxen to Ross Castle. The sight of the ships unnerved the onlookers and the castle soon submitted.</string>
+    <string name="LakesAbout">South and west of the town of Killarney in Co. Kerry is an expanse of rugged mountainous country. This includes the McGillycuddy\'s Reeks, the highest mountain range
+        in Ireland which rise to a height of over 1000 metres.\n\nAt the foot of these mountains nestle the world famous lakes of Killarney. Here where the mountains sweep down to the lake shores,
+        their lower slopes covered in woodlands, lies the 10,236 hectare (26,000 acres), Killarney National Park .\n\nThe distinctive combination of mountains, lakes, woods and waterfalls under
+        ever changing skies gives the area a special scenic beauty.</string>
+    <string name="GapOfDunloeAbout">For 250 years, the Killarney Day Tour has been the most famous visitor excursion in Ireland.\n\nMountains, lakes, woodland and legend in scenery that has no equal worldwide.
+        It is a mini-adventure for young and old through Ireland\’s world famous Lake District.</string>
+    <string name="RingOfKerryAbout">The Ring of Kerry is a scenic drive around the Iveragh Peninsula in southwest Ireland\’s County Kerry. Its 179km-long, circular route takes in rugged and verdant coastal
+        landscapes and rural seaside villages.\n\nSkellig Michael, a rocky island with an abandoned 7th-century Christian monastery, is a major destination point, with several boats from Portmagee
+        making the 12km crossing during the warmer months.</string>
+    <string name="InnisfallenAbout">Innisfallen island can be seen in the distance from Ross Castle out beyond the entrance to the bay. A monastery was founded on Innisfallen in the 7th century
+        and it became a seat of learning and is said that King Brian Boru studied there.\n\nOn the island are the remains of the extensive 12th century Augustinian priory and a small 11th -12th century
+        Romanesque church. The annals of Innisfallen, a major source of early Irish history and now stored in the Bodleian Library in Oxford were written there.\n\nBoat trips to the island operate
+        from the Ross Castle area from Ross and Reen piers.</string>
+    <string name="MuckrossAbbeyAbout">Muckross Abbey is one of the major ecclesiastical sites found in the Killarney National Park, County Kerry, Ireland.\n\nIt was founded in 1448 as a Franciscan
+        friary for the Observantine Franciscans by Donal McCarthy Mor.\n\nIt has had a violent history and has been damaged and reconstructed many times. The friars were often subjected to raids by
+        marauding groups and were persecuted by Cromwellian forces under Lord Ludlow.\n\nToday the abbey is largely roofless although, apart from this, is generally quite well preserved.
+        Its most striking feature is a central courtyard, which contains a large yew tree and is surrounded by a vaulted cloister.</string>
+    <string name="FalconryAbout">An once-in-a-lifetime experience to interact first-hand with one of nature\'s top predators and viewing their aerial acrobatics and maneuverability in free flight
+        against the backdrop of the MacGillycuddy Reeks which includes the highest mountain in Ireland namely Corran Tuathail (Carrauntoohil) situated in beauties home and heavens reflect Killarney.\n\nThe
+        birds are trained using traditional falconry techniques by professional falconers who will draw on their vast knowledge and experience to assist with your up close and personal
+        handling of the birds of prey.\n\nThis wonderful and exciting experience that appeals to everybody of all ages and ability will be yours when you interact directly with the predator when
+        it flies from aloft onto your gloved fist.</string>
+
+    <string name="QuinlansBarName">Quinlan\'s Seafood Bar</string>
+    <string name="QuinlansBarDesc">Address: 77 High Street, Killarney, Co. Kerry\nPhone: (064) 662 0666\nPrice range: €</string>
+    <string name="QuinlansBarAbout">Quinlan\'s Seafood Bars offers a range of fresh fish meals and snacks.\n\nWe offer a great variety of fresh local fish dishes on our menu, from native Salmon,
+        Crab, Prawns, Hake, Lemon Sole, Plaice, Haddock and daily specials.\n\nOur batter is a special recipe we have developed to complement our super fresh fish. For a healthier option you can have
+        the fresh fish pan-fried in olive oil.\n\nYou are guaranteed the freshest of Chips as all our potatoes are freshly peeled and chipped each day and we provide generous portions of these very
+        tasty chips. We also serve salad in place of the chips with all our meals.\n\nQuinlan\’s Seafood Bar Killarney serves traditional Fish and Chips as well as shellfish specials and \‘the
+        catch of the day\’ direct from Quinlan\’s fishing boats in South Kerry and boats in West Cork.\n\nWe are open everyday from 12 - 9pm\n\nBookings can be taken on (064) 662 0666.</string>
+
+    <string name="BricinRestaurant">Bricín Restaurant and Boxty House</string>
+    <string name="BricinRestDesc">Address: 26 High Street, Killarney, Co. Kerry\nPhone: (064) 663 4902\nPrice range: €€ - €€€</string>
+    <string name="BricinRestAbout">The name Bricín is a by-word for delicious food with an emphasis on traditional Irish cuisine in Killarney. Brothers Johnny and Paddy McGuire believe in offering
+        their diners a unique experience in terms of enjoying the best and the freshest of Irish food served in a restaurant unique for its old-world ambience and warm welcome.
+        Paddy is head chef and Johnny is the welcoming face on the restaurant floor.\n\nOpening hours are Tuesday to Saturday from 6pm to 9pm.\n\nBookings can be taken in our downstairs shop
+        from 10am to 6pm Monday to Saturday on (064) 663 4902.</string>
+
+    <string name="CroninsRestName">Cronins Restaurant</string>
+    <string name="CroninsRestDesc">Address: 9 College St, Killarney, Co. Kerry\nPhone: (064) 663 0903\nPrice range: €€</string>
+    <string name="CroninsRestAbout">Top rated restaurant proudly serving locally sourced, seasonal ingredients to create fresh, wholesome Irish cuisine. Located in the heart of Killarney.
+        \n\nSince its opening in 1957 by Johnny and Noreen Cronin, Cronin\’s Restaurant has built a reputation for good, tasty food and friendly service.\n\nToday Johnny and Noreen\’s son,
+        Pat and his wife Sheila continue the family tradition of serving delicious meals in a friendly, family atmosphere.\n\nPat and Sheila, along with Chef John Enright, take great pride in
+        serving their guests the freshest locally sourced produce such as smoked salmon from Kenmare, award winning Ring of Kerry lamb and Irish Hereford beef.\n\nOpening hours are: Monday to Saturday
+        from 12:45 - 9:30pm, and Sunday from 5 - 9:30pm.\n\nBookings can be taken on (064) 663 0903.</string>
+
+    <string name="MacsRestName">Mac\'s Of Main Street</string>
+    <string name="MacsRestDesc">Address: 6 Main St, Killarney, Co. Kerry\nPhone: (064) 663 5213\nPrice range: €€ - €€€</string>
+    <string name="MacsRestAbout">The Killarney Restaurant Ffor all tastes.\n\nWe are a restaurant on Main Street Killarney, specialising in steaks, fresh fish, traditional Irish dishes, oriental, continental and vegetarian
+        specialities.\n\nMac\’s of Main Street is a sophisticated and chic restaurant situated in the heart of the town.\n\nWhether you visit for a drink, coffee, light snack, lunch or dinner our
+        Killarney restaurant offers every comfort and convenience to satisfy our discerning guests. At Mac\’s of Main Street we pride ourselves in giving our diners fine Irish food in a nice,
+        relaxing but vibrant atmosphere. First class hospitality will always await you at Mac\’s of Main Street.\n\nWe are open everyday from 5 - 9pm.\n\nBbookings can be taken on (064) 6635213.</string>
+
+    <string name="SmokeHouseRestName">The Smoke House</string>
+    <string name="SmokeHouseRestDesc">Address: 8 High Street, Killarney, Co. Kerry\nPhone: (064) 663 9336\nPrice range: €€ - €€€</string>
+    <string name="SmokeHouseRestAbout">The Smoke House is a lively meeting place offering local beef cooked simply, burgers as they should be, new spins on the classics dishes and even a few vegetarian
+        dishes.\n\nBrunch, Evening Tea and Dinner with an emphasis on local, delicious and healthy meats, vegetables, greens and grains. Local Beers, extensive wine by the glass list and Italian coffee
+        too.\n\nA uniquely atmospheric setting with friendly service and bohemian sensibilities, Nestled between a busy Bar and our Butchers.\n\nServing Wine, Beer and Cocktails.
+        \n\nWe are open Mon - Fri from 5pm till late and Sat - Sun from 12pm till late.\n\nBookings can be taken on (064) 663 9336.</string>
+
+    <string name="CasitaMexicanaName">Casita Mexicana</string>
+    <string name="CasitaMexicanaDesc">Address: New Market Ln, Killarney, Co. Kerry\nPhone: 087 655 5326\nPrice range: €€ - €€€</string>
+    <string name="CasitaMexicanaAbout">Over the past 25 years we have been serving authentic Mexican cuisine to our loyal customers.\n\nWe aim to continue to introduce this colourful and exciting
+        culture to the heart of Killarney using locally sourced produce and adding that little taste of Mexico.Our opening hours are Thurs - Sun from 5:30 - 9:30pm.\n\nBookings can be taken on (087) 655 5326.</string>
+
+    <string name="TreyvaudsRestName">Treyvaud\'s Restaurant</string>
+    <string name="TreyvaudsRestDesc">Address: 62 High Street, Killarney, Co. Kerry\nPhone: (064) 663 3062\nPrice range: €€ - €€€</string>
+    <string name="TreyvaudsRestAbout">Treyvaud\’s is a family run Restaurant located in the heart of Killarney. Specialising in International cuisine, you can sample such mouth watering delights like,
+        Succulent Kenmare Bay Scallops, Organic Kerry Beef, or for the adventurous, Pan Fried Medallions of Venison.\n\nThere are regular nightly live music playing at the bar area.\n\nWe are open Tue - Sun from 12 - 11:30pm.
+        \n\nCall on (064) 663 3062 to make a reservation.</string>
+
+    <string name="CelticBarName">Celtic Whiskey Bar and Larder</string>
+    <string name="CelticBarDesc">Address: 93 New St, Killarney, Kerry\nPhone: (064) 663 5700\nPrice range: €€ - €€€</string>
+    <string name="CelticBarAbout">Killarney\'s home of incredible whiskey and carefully selected Irish craft beers and spirits.\n\nFood served daily until 9.45pm.\n\nMake a reservation on (064) 663 5700.</string>
+
+    <string name="MilanoRestName">Milano</string>
+    <string name="MilanoRestDesc">Address: 16 Main St, Killarney, Co. Kerry\nPhone: (064) 662 0620\nPrice range: €€</string>
+    <string name="MilanoRestAbout">Opened in November 2008, this modern, stylish addition to the Milano family of restaurants is located in the centre of the town on the Main Street.
+        \n\nThe restaurant features a contemporary design with floating glass ceiling panels, sculptured cast artworks and a glass mosaic tiled pizza counter among it\'s many features.
+        \n\nOur vibrant menu is perfect for family dinners, with great range of pizzas and pasta for everyones taste.\n\nWe are open Mon - Thurs and Sun from 12 - 10pm, and Fri - Sat from 12 - 11pm.
+        \n\nBookings can be taken on (064) 662 0620.</string>
+
+    <string name="DesireKitchenRestName">Desire Kitchen</string>
+    <string name="DesireKitchenRestDesc">Address: 58 New St, Monearmore, Killarney, Co. Kerry\nPhone: (064) 663 8601\nPrice range: €€ - €€€</string>
+    <string name="DesireKitchenRestAbout">On the edge of the National Park yet still in the centre of town and just by the Cathedral, West End House is one of the nicest.
+        \n\nIt\’s a charming late-19th century building, and once did service as a school; later, during the second World War, the Irish army set themselves up here. \n\nNow it is cosy and welcoming restaurant with great atmosphere, hospitality and food.
+        \n\nOpening hours are Mon - Sun from 9am - 8pm.\n\nReservations on (064) 663 8601.</string>
+
+    <string name="RandlesHotelName">Randles Court Hotel</string>
+    <string name="RandlesHotelDesc">Address: Muckross Rd, Dromhale, Killarney, Co. Kerry\nPhone: (064) 663 5333\n4-star hotel</string>
+    <string name="RandlesHotelAbout">The Randles Hotel Killarney offers 4 Star accommodation in Killarney and is ideally located, just five minutes\’ walk from Killarney Town Centre.
+        \n\nThis unique Kerry Hotel has been welcoming guests since 1906. Famous for its Irish hospitality, guests will enjoy the comfort and elegance of an era long since passed complemented by the
+        most modern of facilities.\n\nWe invite you to unwind in our luxurious, spacious guest rooms, enjoy fine dining in a choice of Killarney restaurants, relax in our Drawing Room, Conservatory or
+        Terraced Garden, spend some downtime in our Leisure Club or for pure indulgence pay a visit to our Zen Day Spa for a luxurious spa break in Killarney.
+        \n\nCheck out our website about our accommodation and book your stay: http://randleshotel.com/</string>
+
+    <string name="PlazaHotelName">Killarney Plaza Hotel and Spa</string>
+    <string name="PlazaHotelDesc">Address: Kenmare Pl, Killarney, Co. Kerry\nPhone: (064) 662 1100\n4-star hotel</string>
+    <string name="PlazaHotelAbout">Welcome to luxury hotel accommodation, superb restaurants, bars, conference and banquet facilities together with our luxury Spa, all wrapped up in a graceful,
+        contemporary decor and delivered with an attentive personal hotel service you thought had disappeared forever in a luxury hotel in Killarney Town Centre in the heart of the magical \“Kingdom
+        of Kerry\”.\n\nWe invite you to explore our extensive range of Killarney hotel special offers ranging from Spa midweek breaks, activity breaks, midweek and weekend breaks, entertainment,
+        family breaks, birthday and anniversaries in Ireland.\n\nThe Killarney Plaza is also one of the top spa hotels in Ireland and has fast established itself as an institution of luxury and quality
+        in a town of unsurpassed natural beauty.\n\nLocated in the heart of Killarney Town at the gateway to the Ring of Kerry, this beautifully appointed Killarney hotel has dozens of great bars
+        and fantastic restaurants in Killarney within strolling distance of our front door.\n\nCheck out our website http://www.killarneyplaza.com/ for more details and bookings.</string>
+
+    <string name="RiversideHotelName">Killarney Riverside Hotel</string>
+    <string name="RiversideHotelDesc">Address: Muckross Rd, Woodlawn, Killarney, Co. Kerry\nPhone: (064) 663 9200\n4-star hotel</string>
+    <string name="RiversideHotelAbout">Adjacent to the Flesk River, the Killarney Riverside Hotel is a Four star Boutique style hotel located on the Muckross Road (near the INEC), a 10 minute walk
+        from Killarney town centre.\n\nOur Bedroom Accommodation is of a 4 star standard with phone, TV, hairdryer, tea/coffee tray, complimentary Wi-Fi internet access and a 24 hour room service menu.
+        \n\nThe hotel is also a perfect base for golf, fishing, horse riding, touring County Kerry\'s many scenic attractions and a host of other outdoor activities in Kerry.
+        \n\nCheck out our website http://www.riversidehotelkillarney.com/ for more details and bookings.</string>
+
+    <string name="ParkHotelName">Killarney Park Hotel</string>
+    <string name="ParkHotelDesc">Address: East Avenue, Town Centre, Killarney, Co. Kerry\nPhone: (064) 663 5555\n5-star hotel</string>
+    <string name="ParkHotelAbout">The Killarney Park Hotel is one of the finest luxury hotels Ireland has to offer, minutes from town life and nature\'s wonderful attractions alike.
+        \n\nPerfectly located in the very heart of Killarney town centre, set in mature grounds and framed by the legendary surroundings of Killarney National Park, this is a Five Star Hotel really
+        like no other. \n\nThis proud Leading Hotel of the World member hotel offers a warm and welcoming retreat for guests in search of exceptional comfort with all of those little extra touches.
+        \n\nSee our website http://www.killarneyparkhotel.ie/ for more details and bookings.</string>
+
+    <string name="McSweeneyHotelName">McSweeney Arms Hotel</string>
+    <string name="McSweeneyHotelDesc">Address: College St, Killarney, Co. Kerry\nPhone: (064) 663 1211\n3-star hotel</string>
+    <string name="McSweeneyHotelAbout">McSweeney Arms Hotel is ideally situated in the centre of Irelands most famous tourist town Killarney.
+        \n\nMcSweeney Arms hotel is a three star family run hotel with a unique and friendly atmosphere. Killarney is the ideal place to base yourself when touring around Kerry.
+        The McSweeney Family have been welcoming guests since 1950. We would be delighted to have you stay with us and experience what a true family run hotel can offer.
+        \n\nIn Janurary 2015 McSweeneys renovated the exterior of the building by adding a canopy creating a modern twist to the existing building. McSweeney Arms Hotel won Best Hotel in the Killarney
+        Looking Good Competition in 2015.\n\nCheck out our website http://www.mcsweeneyarms.ie/ for more details and bookings. </string>
+
+    <string name="HolidayInnName">Holiday Inn Killarney</string>
+    <string name="HolidayInnDesc">Address: Muckross Rd, Woodlawn, Killarney, Co. Kerry\nPhone: (064) 663 3000\n3-star hotel</string>
+    <string name="HolidayInnAbout">The Holiday Inn Killarney is one of the best known and popular family hotels in Killarney. We are famed for our warm welcome and traditional Irish hospitality.
+        \n\nThe Holiday Inn Killarney is in a tranquill and central location just outside Killarney town centre , a few minutes stroll from the INEC Killarney Co Kerry,
+        Irelands National Event Centre. \n\nWe pride ourselves on our longstanding reputation for providing great value with friendly staff and efficient service. Free Wifi now in all rooms and public
+        areas!\n\nCheck out our website http://www.holidayinnkillarney.com/ for more details and bookings.</string>
+    
+    <string name="BrehonHotelName">The Brehon Hotel</string>
+    <string name="BrehonHotelDesc">Address: Muckross Rd, Poulnamuck, Killarney, Co. Kerry\nPhone: (064) 663 0700\n4-star hotel</string>
+    <string name="BrehonHotelAbout"> The Brehon, Killarney is a luxurious hotel of unique grace and elegance set amidst Killarney\'s breathtaking landscape, overlooking Killarney National Park.
+        Each of our 125 bedrooms and suites reflects a contemporary blend of style and space.\n\nThe Brehon\’s luxurious accommodation in Killarney is designed with your every requirement in mind.
+        \n\nOur boutique style rooms vary in layout and design. You can choose from Deluxe Bedrooms, Superior Bedrooms, Suites or Family Suites.\n\nSee our website http://www.thebrehon.com/ for more details and bookings.</string>
+
+    <string name="GleneagleHotelName">The Gleneagle Hotel and Apartments</string>
+    <string name="GleneagleHotelDesc">Address: Muckross Rd, Killarney, Co. Kerry\nPhone: (064) 667 1550\n3-star hotel</string>
+    <string name="GleneagleHotelAbout">Situated on the edge of Killarney National Park, the INEC centre is attached to the hotel.\n\nThe Gleneagle was voted as one of the top 10 family friendly hotels
+        by Ireland\'s Primary Times. \n\nBright and traditionally furnished each room includes free WiFi and satellite TV. There is a private bathroom with a hairdryer, along with tea and coffee facilities.
+        Some rooms offer views of Killarney National Park.\n\nSee our website http://www.gleneaglehotel.com/ for more details and bookings.</string>
+
+    <string name="AghadoeHotelName">Aghadoe Heights Hotel and Spa</string>
+    <string name="AghadoeHotelDesc">Address: Aghadoe House, Lakes of Killarney, Killarney, Co. Kerry\nPhone: (064) 663 1766\n5-star hotel</string>
+    <string name="AghadoeHotelAbout">Blessed with a spectacular natural setting overlooking the world famous Lakes of Killarney, there is no place on earth quite like Aghadoe Heights Hotel and Spa.
+        \n\nRenowned as Ireland’s premier destination resort, Aghadoe Heights Hotel and Spa exudes the style and elegance that one would expect from a luxury five star hotel, combining it with the
+        warmth of hospitality that only Ireland can offer.\n\nAghadoe Heights Hotel and Spa boasts every contemporary comfort from its elegant public areas to the wide decks and outside terraces that
+        allow guests to fully embrace the majestic location that surrounds them.\n\nComfort and service are the central ethos of the attentive, professional staff, whose mantra is \“come as a visitor,
+        leave as a friend\”.\n\nSee our website https://www.aghadoeheights.com/ for more details and bookings.</string>
+
+    <string name="MuckrossHotelName">Muckross Park Hotel and Spa</string>
+    <string name="MuckrossHotelDesc">Address: Killegy Lower, Killarney, Co. Kerry\nPhone: (064) 662 3400\n5-star hotel</string>
+    <string name="MuckrossHotelAbout">Muckross Park Hotel and Spa is one of the most luxurious 5 Star Hotels in Killarney with views and a location that are second to none.\n\nAwarded \'Best 5 star
+        Accommodation in Ireland\' as well as receiving awards for our Spa at Muckross and Yew Tree Restaurant, our award winning hotel has something to offer all.\n\nIdeally located in the heart of
+        the stunning Killarney National Park, Muckross Park offers a tradition of Irish hospitality and history with modern, luxurious facilities. Killarney National Park surrounds the hotel and offers
+        guests spectacular walking trails, cycle routes, historic tours, horse riding and lake activities. All this only 4km from Killarney Town Centre. \n\nLearn more about our hotel here: http://www.muckrosspark.com/</string>
+
+    <string name="MaltonHotelName">The Malton Hotel</string>
+    <string name="MaltonHotelDesc">Address: Town Centre, Killarney, Co. Kerry\nPhone: (064) 663 8000\n4-star hotel</string>
+    <string name="MaltonHotelAbout">Spectacular architecture melded with effortless service and genuine hospitality has made The Malton Killarney an iconic retreat for over 160 years. Originally opened
+        in 1854 and later named The Great Southern Hotel, now The Malton Killarney stands proudly as Killarney\’s Premier Historic Hotel in Killarney town centre.\n\nThe Malton Killarney enjoys an
+        impressive history, throughout which the hotel has fortunately retained its striking original Victorian features, as well as developing a deluxe guest experience with beautifully appointed
+        accommodation and guest facilities including The Garden Room Restaurant, The Punchbowl Bar, The Killarney Wine Rooms, Afternoon Tea in The Grand Foyer and the beautifully restful, Reading Room
+        Residents\’ Lounge.\n\nLearn more about hotel and book your stay through our website: http://www.themalton.com/</string>
+
+    <string name="JarveysPubName">Jarvey\'s Rest Traditionl Irish Pub</string>
+    <string name="JarveysPubDesc">Address: Muckross Lodge, Muckross Rd, Killegy Lower, Killarney, Co. Kerry\nPhone: (064) 662 3400\nPrice range: €€</string>
+    <string name="JarveysPubAbout">The Jarvey\'s Rest Irish Night Show is Kerry\'s best traditional entertainment and dinner pub show. Guests enjoy a tasty 3 course Irish themed dinner with live Irish
+        dancers and music from the famous Onora.\n\nJarvey\'s Irish Night Show runs every Tuesday, Wednesday,Thursday and Saturday from June - October.\n\nReservations are strongly advised to ensure you get your preferred date.</string>
+
+    <string name="GrandHotelName">Killarney Grand Hotel</string>
+    <string name="GrandHotelDesc">Address: Main St, Killarney, Co. Kerry\nPhone: (064) 663 1159\nPrice range: €€</string>
+    <string name="GrandHotelAbout">The Grand hosts Irelands Best cover Bands 7 nights a week all year providing an unrivalled atmosphere which has been enjoyed by many Hollywood celebs along with
+        numerous Irish personalities and sporting legends. Come along and experience the ambience and bop along to your favourite Rock, pop and Celtic rock hits.\n\nMany of Ireland\’s most famous acts
+        have played live in the Grand including Sharon Shannon, Paddy Casey and Christy Moore.\n\nA sample of our weekly pulsating performances\n\nMon- J90,\n\nTues-Deuces Wild,\n\nWed (ladies night)\n\nSat- Spailpin
+        in bar and Clockworks in the Club, Wed, Thurs Fri and Sun Various top bands.</string>
+
+    <string name="KubeBarName">The Kube Cocktail Bar</string>
+    <string name="KubeBarDesc">Address: East avenue road, Killarney, Co. Kerry\nPhone: (064) 663 1038\nPrice range: €€ - €€€</string>
+    <string name="KubeBarAbout">The Kube is a unique and breathtaking space. It features an elegant interior of American walnut, Italian marble and cream leather. Plasma television screens are hung
+        around the room. Guests gather to sip the now famous cocktails, chat and people watch in a series of cozy niches. It has been one of Killarney\’s hottest nightspots since its opening. It
+        reflects the lifestyle, attitudes and values of the people it attracts and provides real value.</string>
+
+    <string name="TatlersBarName">Tatler Jack</string>
+    <string name="TatlersBarDesc">Address: 25 \- 26 Plunkett St, Killarney, Co. Kerry, V93 D431\nPhone: (064) 663 2361\nPrice range: €</string>
+    <string name="TatlersBarAbout">The Tatler Jack Bar is a family owned Irish Traditional Pub, which is a favourite gathering place for G.A.A. followers. Located on Plunkett Street in the heart of
+        Killarney town the pub serves the finest pub food at lunchtime all year round.</string>
+
+    <string name="CourtneysBarName">Courtney\'s Bar</string>
+    <string name="CourtneysBarDesc">Address: 24 Plunkett St, Killarney, Co. Kerry\nPhone: (064) 663 2689\nPrice range: €€</string>
+    <string name="CourtneysBarAbout">Courtney\'s has been operating as a Public House since the late 1800s and remains in the ownership of Courtney family since that time. The classic and much
+        photographed frontage is now protected whilst the bare wood interior retains the old world atmosphere of the traditional \“Teach Tairbhne\”.</string>
+
+    <string name="ShireBarName">The Shire Bar</string>
+    <string name="ShireBarDesc">Address: Killarney, Co. Kerry\nPhone: (064) 667 1605\nPrice range: €€</string>
+    <string name="ShireBarAbout">The Shire….. In The Lord Of The Rings, The Shire is the homeland of the Hobbits and is located in the Northwest of Middle Earth in the region of Eriador and within
+        the Kingdom of Arnor.\n\nBut in the town of Killarney in the Kingdom of Kerry, \“The Shire\” is located in Michael Collins Place… where Ollie Favier is \“Head of the Hobbits\”.
+        \n\nWith Traditional Irish Music sessions every Wednesday 9pm till late and Live Music every Sunday from 7-9pm there is something for everyone to enjoy here at The Shire.
+        \n\nOnce entering The Shire Pub in Killarney, through the Hobbit Hole you will be met at The Inn of \“The Prancing Pony\”.\n\nYou will be guided through our low archway leading into
+        Mordor..\”One does not simply walk into Mordor\”.\n\nWe promise you there is no presence of Orcs here, only our friendly Hobbit-themed staff to wait on your every need.</string>
+
+    <string name="LaurelsBarName">The Laurels Pub</string>
+    <string name="LaurelsBarDesc">Address: Main St, Killarney, Co. Kerry\nPhone: (064) 663 1149\nPrice range: €€ - €€€</string>
+    <string name="LaurelsBarAbout">The Laurels is a wonderful traditional Killarney pub which has been run by the O\’Leary family for almost a century. And little has changed in that time.
+        \n\nTiled floors and beamed ceilings, lots of alcoves and dimly lit corners, friendly and attentive staff, all contribute to the charm of The Laurels. \n\nDuring the season, live music and Irish
+        dancing add another dimension. And all year round, appetising food is served.</string>
+
+    <string name="JacksCBarName">Jack C\'s Bar</string>
+    <string name="JacksCBarDesc">Address: 51 High Street, Killarney, Co. Kerry\nPhone: (064) 663 0218\nPrice range: €€</string>
+    <string name="JacksCBarAbout">Family owned Irish bar with loads of character and genuine locals. \n\nThe pub has been in the O\'Shea family for over 100 years and 4 generations.
+        \n\nBest pint of Guinness in Killarney. </string>
+
+    <string name="CelticStepsAbout">From Sunday to Friday inclusive every week this show commences at 8.30 p.m. and finishes at 10.15 p.m.
+        \n\nOur venue is located at the world renowned Killarney Racecourse, Ross Rd, Killarney within walking distance of Killarney Town Centre. The theatre comprises of a five hundred seater indoor
+        arena with coach parking for over twenty large vehicles plus ample car parking spaces adjacent to the main entrance. The complex features a beautifully located public bar with amazing panoramic
+        views of Killarney\'s National Park and the surrounding mountains and lakes. \n\nPre-booking of tickets is always advised as this popular show sells out quite often in high season but tickets can be
+        purchased from the box office which is open from 2 p.m. daily from Sunday to Friday, BOX OFFICE 003536626666.</string>
+
+    <string name="InecAbout">Big\-name touring bands and stand\-up comics in modern, 3,000\-capacity theatre with 2 balconies. \n\nSee our website http://inec.ie/ for upcoming events and ticket bookings..</string>
+
+    <string name="CineplexAbout">For rainy evenings what could be better than go and watch just new released movie? \n\nHere at Killarney\'s Cineplex you can enjoy your evening with a family or romantic evening
+        and see just new released movies for any taste. \n\nCheck new movie listings and book your tickets on Cineplex website: http://www.cinemakillarney.com/</string>
+    
+    <string name="FitzgeraldStadiumAbout">The Fitzgerald Stadium (Staid a\' Ghearaltaigh in Irish) is the principal GAA stadium in Killarney, Ireland, and is the home championship venue for the Kerry
+        senior football team.\n\nNamed in honour of one of the first great players of the Gaelic Athletic Association, Dick Fitzgerald.\n\nOn November 15, 2016, Fitzgerald Stadium was announced as one of 12 possible venues in Ireland to host the 2023 Rugby World Cup. </string>
+
+    <string name="BikeFestAbout">Once Destination Killarney Ltd experienced and saw the Harley® riders and their gleaming machines at the 2006 European H.O.G.® Rally in Killarney, they were so keen to
+        repeat the occasion that they invited them back \– and thus Ireland BikeFest was born. Now in its 12th year, BikeFest has attracted a lot of positive attention from locals, national and
+        international visitors alike. This festival has evolved into a must attend event attracting bike enthusiasts in their tens of thousands from all over the world. Ireland\’s only free open biker
+        festival, this 3 day motorcycle and free music extravaganza takes place across Ireland\’s June Bank Holiday weekend in conjunction with the Harley-Davidson® 115th Anniversary celebration in 2018.
+        \n\nThe real attraction of this fiesta is the opportunity to ride the twisting tracks around the mountains, high above the lakes and running alongside the sea, on world-famous routes such as the
+        Ring of Kerry and the Wild Atlantic Way.\n\nTen years on and Ireland BikeFest is continually getting bigger and better. The festival\’s chosen charity is Muscular Dystrophy Ireland who benefited
+        from the generosity of thousands of bikers in 2017.\n\nIf you haven\’t yet made the trip to Killarney, get it in your diary for next year \– you\’ll be made very welcome.</string>
+
+    <string name="KerryCharityCycleAbout">The event, now in it\’s 34th year, is the biggest one day charity fundraising event in Munster, attracting thousands of leisure cyclists who will experience a
+        fun and rewarding day\’s cycling, completing 112 miles of the spectacular Ring of Kerry, while at the same time fundraising for worthy Kerry based Charities.\n\nTo date the Ring of Kerry Cycle
+        has raised over €10.2 million for Kerry Charities.</string>
+
+    <string name="FolkfestFestAbout">A festival for music lovers, Folkfest Killarney promises to satisfy every taste. With an eclectic selection in the best of Irish music, up and coming indie acts and
+        musicians from all over the world added to the mix. Set in the scenic surroundings of the beautiful Killarney, Co. Kerry, what better way to soak up some Irish culture at this popular Wild
+        Atlantic Way stop. With music from dusk till dawn the festival promises to be the best one yet!</string>
+
+    <string name="JulyRacingAbout"> Killarney\'s July Racing Festival is the centrepiece of their racing calendar with a mix of both National Hunt and Flat racing. The Festival runs from Monday 17th
+        July for four days. Monday to Wednesday are evening meetings and Thursday is an afternoon meeting and features the prestigious Queen of Fashion Ladies Day.\n\nMonday, Tuesday and Wednesday
+        evenings feature great racing.\n\nThursday is Killarney\'s Ladies Day which is the highlight of the July Festival and early attendance is advisable given the popularity of the day.\n\nPackages
+        are available on all four days. \n\nFor bookings contact (064) 663 1125 or visit Killarney Racecourse. </string>
+
+    <string name="AugustRacingAbout"> Killarney\'s Autumn Racing Festival runs from Wednesday 23rd to Saturday 26th of August, featuring 29 races over the four days.
+        \n\nThe first three days of racing are all evening meetings, with Wednesday featuring the Vincent O\'Brien Ruby Stakes. Thursday evening is a mixed race card and Friday evening is a National
+        Hunt Card.\n\nThe final day of the festival and one of the busiest is Ladies Day, with fantastic prizes to be won.\n\nFind out more about Killarney Racecourse.</string>
+
+    <string name="KillarneyCyclingFestAbout">Now in its fourth year there are two tantalizing routes are on offer. Depart from Killarney on the Wrong Way Round and tackle Molls Gap before heading for
+        the scenic South West via Sneem. From there on the route is familiar passing Waterville, Cahersiveen, Glenbeigh and Killorglin.\n\nOr take the challenge and cycle The Hard Way Round taking a
+        right for Ballaghbeama through the heart of Kerry to Ballaghoisin, a detour around the stunning Skellig Ring before rejoining the main troop on the road to Cahersiveen.
+        \n\nCross the finish line at the festival headquarters \– The Gleneagle Hotel Killarney, where a barbecue and live entertainment will be ready and waiting.\n\nThere will be food stops dotted
+        along the 160km and 180km routes and official festival road captains to accompany and guide you along the way.\n\nEarly bird registration open for a limited time only, with an optional extra
+        donation which will go directly to the Donal Walsh LiveLife Foundation.\n\nThe registration fees will be used to finance the running of the event and any surplus made will also be donated to
+        the Donal Walsh LiveLife Foundation.\n\nWhether you\’re a veteran on wheels or well and truly hooked round of your summer with a bang the last Saturday in August.</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mainBackgroundColor"
+    tools:context="com.example.android.tourguide.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/layoutMargin6dp"
+        android:background="@color/detailBackground"
+        android:orientation="vertical"
+        android:padding="@dimen/padding8dp">
+
+        <ImageView
+            android:id="@+id/detail_image"
+            style="@style/DetailImageStyle"
+            tools:src="@drawable/main_st" />
+
+        <TextView
+            android:id="@+id/place_name"
+            style="@style/DetailTextViewStyle"
+            android:textAlignment="center"
+            tools:text="Killarney" />
+
+        <TextView
+            android:id="@+id/detail_about"
+            style="@style/DetailDescriptionTextStyle"
+            tools:text="Description" />
+    </LinearLayout>
+</ScrollView>

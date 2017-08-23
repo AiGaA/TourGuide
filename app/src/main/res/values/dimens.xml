@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Height of each list item -->
+    <dimen name="list_item_height">100dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="layoutHeight200dp">200dp</dimen>
+
+    <dimen name="layoutMargin6dp">6dp</dimen>
+    <dimen name="layoutMargin10dp">10dp</dimen>
+
+    <dimen name="marginTop6dp">6dp</dimen>
+    <dimen name="marginBottom6dp">6dp</dimen>
+    <dimen name="marginRight6dp">6dp</dimen>
+    <dimen name="marginTop16dp">16dp</dimen>
+
+    <dimen name="padding8dp">8dp</dimen>
+    <dimen name="paddingLeft10dp">10dp</dimen>
+
+    <dimen name="textSize18sp">18sp</dimen>
+    <dimen name="textSize15sp">15sp</dimen>
+    <dimen name="textSize14sp">14sp</dimen>
+    <dimen name="textSize13sp">13sp</dimen>
+
+
+    <dimen name="imageHeight88dp">88dp</dimen>
+    <dimen name="imageWidth88dp">88dp</dimen>
+</resources>
